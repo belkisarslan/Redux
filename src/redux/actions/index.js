@@ -1,5 +1,5 @@
 import numberAction from "./counterActions";
 
-const actions={numberAction}
+const Actions={numberAction}
 
-export default actions
+export default Actions;
