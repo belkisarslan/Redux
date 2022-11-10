@@ -1,8 +1,9 @@
 import * as count from "./counterTypes"
+import * as theme from "./themeTypes"
 //counterTypes'ın içindeki her şeyi buraya aktarıp..
 
 const actionTypes={
-    count 
+    count,theme 
 }
 
 export default actionTypes
